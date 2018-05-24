@@ -14,5 +14,13 @@
 		"description": "The goal of the game is to \"burst\" the bubbles and get the highest score you can, while not hitting the bombs and losing 2-3 points.",
 		"screenshots": 3,
 		"project_id": "bubble-burst"
+	},
+	{
+		"id": "gitwebbuilder:gitwebbuilder_app",
+		"name": "GitWeb Builder",
+		"author": "Mastef_Chief",
+		"description": "Want to create an awesome site for GitWeb? Well, then use this builder to create your very own! GitWeb Builder comes equipped with all the tools you need to create your very own website! GitWeb Builder includes: Easy to use formatting buttons, module builders, and a live view to see your website in action!",
+		"screenshots": 3,
+		"project_id": "gitweb-builder"
 	}
 ]
