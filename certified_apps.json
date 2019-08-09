@@ -5,7 +5,7 @@
 		"author": "MrCrayfish, MinecraftDoodler",
 		"description": "GitWeb is a web browser powered by GitHub. It is community driven, which means websites you browse are created by other players.",
 		"screenshots": 0,
-		"project_id": ""
+		"project_id": "gitweb"
 	},
 	{
 		"id": "bubble_burst:bubble_game",
